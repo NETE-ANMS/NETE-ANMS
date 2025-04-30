@@ -1,4 +1,4 @@
-## Hola, soy NETEdev.👋
+## Hola, soy NETEdev👋
 Futuro ingeniero en sistemas, desarrollador en constante aprendizaje.
 Código con pasión, motivación y propósito.
 Solo hazlo y disfruta el proceso.
