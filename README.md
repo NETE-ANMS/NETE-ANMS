@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+# Hola, soy NETEdev.
+Futuro ingeniero en sistemas, desarrollador en constante aprendizaje.
+Código con pasión, motivación y propósito.
+Solo hazlo y disfruta el proceso.
 <!--
 **NETE-ANMS/NETE-ANMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
